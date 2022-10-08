@@ -1,3 +1,5 @@
+//requires: npm init, npm install jest
+
 const myPortfolio = require("./stockPortfolio.js");
 
 let folio = new myPortfolio.Portfolio();
